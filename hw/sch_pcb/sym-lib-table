@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "AIRDOSC01A_PCB01A-rescue")(type "Legacy")(uri "${KIPRJMOD}/USTSIPM01A-rescue.lib")(options "")(descr ""))
+  (lib (name "SIPM02-rescue")(type "Legacy")(uri "${KIPRJMOD}/USTSIPM01A-rescue.lib")(options "")(descr ""))
+)
