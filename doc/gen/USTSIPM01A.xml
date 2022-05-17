@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPM01A.kicad_sch</source>
-    <date>Mon May 16 15:23:57 2022</date>
+    <date>Tue May 17 19:32:10 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -259,42 +259,6 @@
       <property name="Sheetfile" value="USTSIPM01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9fa19f51-e022-4533-8f6a-1d753254c814</tstamps>
-    </comp>
-    <comp ref="M1">
-      <value>HOLE</value>
-      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
-      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPM01A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-0000549d7549</tstamps>
-    </comp>
-    <comp ref="M2">
-      <value>HOLE</value>
-      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
-      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPM01A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005c6d1882</tstamps>
-    </comp>
-    <comp ref="M3">
-      <value>HOLE</value>
-      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
-      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPM01A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005c6d1820</tstamps>
-    </comp>
-    <comp ref="M4">
-      <value>HOLE</value>
-      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
-      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTSIPM01A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-0000549d7665</tstamps>
     </comp>
     <comp ref="R1">
       <value>100R</value>
@@ -577,15 +541,6 @@
         <pin num="4" name="NC" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="MLAB_MECHANICAL" part="HOLE">
-      <fields>
-        <field name="Reference">M</field>
-        <field name="Value">HOLE</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="input"/>
-      </pins>
-    </libpart>
     <libpart lib="STEPUPDC01A-rescue" part="C-Device">
       <footprints>
         <fp>C_*</fp>
@@ -731,10 +686,6 @@
       <node ref="J6" pin="2" pintype="input"/>
       <node ref="J9" pin="1" pintype="input"/>
       <node ref="J9" pin="2" pintype="input"/>
-      <node ref="M1" pin="1" pintype="input"/>
-      <node ref="M2" pin="1" pintype="input"/>
-      <node ref="M3" pin="1" pintype="input"/>
-      <node ref="M4" pin="1" pintype="input"/>
       <node ref="R5" pin="1" pintype="passive"/>
       <node ref="R7" pin="2" pintype="passive"/>
       <node ref="R8" pin="2" pintype="passive"/>

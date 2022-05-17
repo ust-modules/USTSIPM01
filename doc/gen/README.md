@@ -1,6 +1,6 @@
 # PCB
 
-Board size: 29.97x40.13 mm (1.18x1.58 inches)
+Board size: 60.0x15.0 mm (2.36x0.59 inches)
 
 - This is the size of the rectangle that contains the board
 - Thickness: 1.6 mm (63 mils)
@@ -62,8 +62,8 @@ Eurocircuits class: 4C
 
 Components count: (SMD/THT)
 
-- Top: 0/15 (THT)
-- Bottom: 24/0 (SMD)
+- Top: 0/6 (THT)
+- Bottom: 33/0 (SMD)
 
 Defined tracks:
 
@@ -75,9 +75,8 @@ Defined tracks:
 
 Used tracks:
 
-- 0.4 mm (16 mils) (9) defined: yes
-- 0.5 mm (20 mils) (85) defined: yes
-- 0.8 mm (31 mils) (27) defined: yes
+- 0.4 mm (16 mils) (55) defined: yes
+- 0.6 mm (24 mils) (56) defined: yes
 
 Defined vias:
 
@@ -85,12 +84,11 @@ Defined vias:
 
 Used vias:
 
-- 0.8/0.4 mm (31/16 mils) (Count: 56, Aspect: 2.0 A) defined: yes
+- 0.8/0.4 mm (31/16 mils) (Count: 68, Aspect: 2.0 A) defined: yes
 
 Holes (excluding vias):
 
-- 0.89 mm (35 mils) (20)
-- 3.0 mm (118 mils) (4)
+- 0.89 mm (35 mils) (10)
 
 
 
