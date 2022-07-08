@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USTSIPM01A.kicad_sch</source>
-    <date>Tue May 24 18:18:04 2022</date>
+    <date>Fri Jul  8 08:24:34 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -388,10 +388,10 @@
       <value>3M9</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="UST_ID">628d19cddc56076e9a2236db</field>
+        <field name="UST_ID">62c7d4f48c8e243169d1938e</field>
       </fields>
       <libsource lib="STEPUPDC01A-rescue" part="R-Device" description=""/>
-      <property name="UST_ID" value="628d19cddc56076e9a2236db"/>
+      <property name="UST_ID" value="62c7d4f48c8e243169d1938e"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USTSIPM01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
