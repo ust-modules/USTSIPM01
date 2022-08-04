@@ -5,10 +5,10 @@
   (paper "A4")
 
   (title_block
-    (title "SIPM02C")
+    (title "USTSIPM01A")
     (date "2022-04-02")
-    (company "Mlab www.mlab.cz")
-    (comment 2 "Silicon photomultiplier interface module")
+    (company "ust.cz")
+    (comment 2 "Silicon photomultiplier\\ninterface module")
     (comment 3 "nickname <email@example.com>")
   )
 
