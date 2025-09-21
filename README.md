@@ -18,7 +18,7 @@ Complete analog front‑end for Silicon Photomultipliers (SiPM). The module prov
 ```mermaid
 flowchart LR
     V["3V6"] -->|Bias supply| MAX5026["MAX5026 Boost"]
-    MAX5026 -->|VBIAS (~25–32 V)| SiPM["SiPM MicroFC‑60035"]
+    MAX5026 -->|VBIAS 25-32 V| SiPM["SiPM MicroFC-60035"]
     SiPM -->|A| OPA836["OPA836 Readout"]
     OPA836 --> OUT["OUT"]
     V33["+3.3 V"] --> OPA836
